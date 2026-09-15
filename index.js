@@ -1,4 +1,4 @@
-const code1;
+let code1;
 code1 = 7 + 3;
 const code2 = 60 - 40 / 2;
 const code3 = 40 - (7 % 3);
